@@ -49,5 +49,5 @@ Using this dataset, we suggest you apply the following customization:
 - Add `genres` to the [`attributesForFaceting` settings](https://docs.meilisearch.com/reference/api/attributes_for_faceting.html#attributes-for-faceting).
 - Add `release_date` to the [ranking rules settings](https://docs.meilisearch.com/reference/api/ranking_rules.html#get-ranking-rules).
 
-Of course, you can also [add `synonyms`](https://docs.meilisearch.com/reference/features/synonyms.html#synonyms) for example `lotr` and `lord of the rings`.
+Of course, you can also [add `synonyms`](https://docs.meilisearch.com/reference/features/synonyms.html#synonyms) for example `magician` and `wizard`.
 Or [stop-words](https://docs.meilisearch.com/reference/features/stop_words.html) if you want to avoid the redudancy of words like `the`.
