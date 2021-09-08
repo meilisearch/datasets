@@ -1,0 +1,4 @@
+{
+  "filterableAttributes": ["platforms", "players", "genres", "misc"],
+  "sortableAttributes": ["recommendationCount"]
+}

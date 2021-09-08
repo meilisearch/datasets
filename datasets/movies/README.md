@@ -1,4 +1,4 @@
-# Movies Datasets
+# Movies Dataset
 
 ## General
 
@@ -46,8 +46,8 @@ The order of the fields determine their importance in MeiliSearch. With the show
 
 Using this dataset, we suggest you apply the following customization:
 
-- Add `genres` to the [`attributesForFaceting` settings](https://docs.meilisearch.com/reference/api/attributes_for_faceting.html#attributes-for-faceting).
-- Add `release_date` to the [ranking rules settings](https://docs.meilisearch.com/reference/api/ranking_rules.html#get-ranking-rules).
+- Add `genres` to the [`filterableAttributes` settings](https://docs.meilisearch.com/reference/api/filterable_attributes.html#filterable-attributes).
+- Add `release_date` to the [`sortableAttributes` settings](https://docs.meilisearch.com/reference/api/ranking_rules.html#get-ranking-rules) to be able to sort by descending or ascending`release_date` using the [sort search parameter](https://docs.meilisearch.com/reference/features/search_parameters.html#sort).
 
 Of course, you can also [add `synonyms`](https://docs.meilisearch.com/reference/features/synonyms.html#synonyms) for example `magician` and `wizard`.
 Or [stop-words](https://docs.meilisearch.com/reference/features/stop_words.html) if you want to avoid the redudancy of words like `the`.
