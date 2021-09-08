@@ -51,8 +51,8 @@ Every game document is composed of the following fields:
 
 Using this dataset, we suggest you apply the following customization:
 
-- Add `["platforms", "players", "genres", "misc"]` to the [`filterableAttributes` settings](https://docs.meilisearch.com/reference/api/filterable-attributes) to be able to [filter](https://docs.meilisearch.com/reference/features/search_parameters.html#filter) on these fields.
-- Add `recommendationCount` to the [`sortableAttributes` settings](https://docs.meilisearch.com/reference/api/sortable-attributes) to be able to sort by descending `recommendationCount` using the [sort search parameter](https://docs.meilisearch.com/reference/features/search_parameters.html#sort).
+- Add `["platforms", "players", "genres", "misc"]` to the [`filterableAttributes` settings](https://docs.meilisearch.com/reference/api/filterable_attributes) to be able to [filter](https://docs.meilisearch.com/reference/features/search_parameters.html#filter) on these fields.
+- Add `recommendationCount` to the [`sortableAttributes` settings](https://docs.meilisearch.com/reference/api/sortable_attributes) to be able to sort by descending `recommendationCount` using the [sort search parameter](https://docs.meilisearch.com/reference/features/search_parameters.html#sort).
 
 ## Provided files
 
