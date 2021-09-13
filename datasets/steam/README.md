@@ -2,7 +2,7 @@
 
 ## General
 
-The steam-games dataset weight `20MB` and contains `12546` games from steam.
+The steam-games dataset weight `20MB` and contains `12546` games from Steam.
 
 ## Content
 
@@ -12,12 +12,12 @@ Every game document is composed of the following fields:
 - `name`: a string with the name of the game
 - `description`: a string with a small description of the game
 - `price`: a string with the price of the game
-- `image`: a string with the url linking to the main image of the game on steam
+- `image`: a string with the URL linking to the main image of the game on Steam
 - `releaseDate`: a date of the release date of the game in this format: `Nov 1 2000`.
 - `recommendationCount`: an integer representing how much the game is recommended.
   - max: `1427633`
   - min: `0`
-- `platforms`: an array of string with the different platforms the game can be played on
+- `platforms`: an array of strings with the different platforms the game can be played on
 - `players`: an array of strings with the different modes users can play the game on.
 - `misc`: an array of strings containing misc information about the game.
 
