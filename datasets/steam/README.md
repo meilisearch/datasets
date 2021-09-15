@@ -2,7 +2,7 @@
 
 ## General
 
-The steam-games dataset weight `20MB` and contains `12546` games from Steam.
+The steam-games dataset weights `20MB` and contains `12546` games from Steam.
 
 ## Content
 
