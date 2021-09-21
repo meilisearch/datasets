@@ -2,7 +2,7 @@
 
 ## General
 
-The movie dataset weight `19MB` and contains `31968` movies.
+The movie dataset weights `19MB` and contains `31968` movies.
 
 The movies have been choosen based on:
 - Popularity
