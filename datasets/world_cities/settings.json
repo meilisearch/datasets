@@ -1,0 +1,14 @@
+{
+  "filterableAttributes": [
+    "_geo"
+  ],
+  "sortableAttributes": [
+    "_geo",
+    "population"
+  ],
+  "searchableAttributes": [
+    "name",
+    "alternatenames",
+    "country"
+  ]
+}
