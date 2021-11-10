@@ -1,0 +1,9 @@
+{
+  "filterableAttributes": [
+    "_geo"
+  ],
+  "sortableAttributes": [
+    "_geo",
+    "population"
+  ]
+}

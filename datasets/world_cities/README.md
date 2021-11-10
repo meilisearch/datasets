@@ -42,3 +42,9 @@ Every city document is composed of the following fields:
 Using this dataset, we suggest you apply the following customization:
 
 - Add `population` to the [`sortableAttributes` settings](https://docs.meilisearch.com/reference/api/sortable_attributes) to be able to sort by descending or ascending number of inhabitants using the [sort search parameter](https://docs.meilisearch.com/reference/features/search_parameters.html#sort).
+
+## Provided file
+
+We provide two files:
+- `world-cities.json` containing the dataset.
+- `settings.json` containing our suggested settings for this dataset.
