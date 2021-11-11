@@ -57,7 +57,7 @@ curl https://raw.githubusercontent.com/meilisearch/datasets/main/datasets/movies
 
 If you wish to index the dataset, you need a running MeiliSearch instance. See how to [Download MeiliSearch](https://docs.meilisearch.com/learn/getting_started/installation.html).
 
-Once MeiliSearch is running, add the dataset to the index name of your choice.
+Once MeiliSearch is running, add the dataset to the index name of your choice.<br>
 See how to index a [dataset](https://docs.meilisearch.com/reference/api/documents.html#add-or-replace-documents) in MeiliSearch.
 
 Optionnaly, [add the settings](https://docs.meilisearch.com/reference/api/settings.html#update-settings) to the index.
