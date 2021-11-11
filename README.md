@@ -27,7 +27,7 @@ com/meilisearch/MeiliSearch)
 
 ## Table of Contents <!-- omit in toc -->
 
-- [🎁 List of datasets](#-Requirements)
+- [🎁 List of datasets](#-list-of-datasets)
 - [💅 Settings](#-Requirements)
 - [🚗 Usage](#-Usage)
 - [📖 Documentation](#-documentation)
