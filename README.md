@@ -55,7 +55,7 @@ One way to download a dataset is using `cURL`. For example to download the `movi
 curl https://raw.githubusercontent.com/meilisearch/datasets/main/datasets/movies/movies.json --output movies.json
 ```
 
-If you wish to index the dataset, you need a running. See how to [Download MeiliSearch](https://docs.meilisearch.com/learn/getting_started/installation.html).
+If you wish to index the dataset, you need a running MeiliSearch instance. See how to [Download MeiliSearch](https://docs.meilisearch.com/learn/getting_started/installation.html).
 
 Once MeiliSearch is running, add the dataset to the index name of your choice.
 See how to index a [dataset](https://docs.meilisearch.com/reference/api/documents.html#add-or-replace-documents) in MeiliSearch.
