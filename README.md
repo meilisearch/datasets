@@ -22,8 +22,7 @@ The **datasets** provided in this repository are compatible with MeiliSearch. Ad
 
 The datasets are free to use for any other purpose.
 
-**MeiliSearch** is an open-source search engine. [Discover what MeiliSearch is!](https://github.
-com/meilisearch/MeiliSearch)
+**MeiliSearch** is an open-source search engine. [Discover what MeiliSearch is!](https://github.com/meilisearch/MeiliSearch)
 
 ## Table of Contents <!-- omit in toc -->
 
