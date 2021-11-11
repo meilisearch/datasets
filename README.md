@@ -65,4 +65,3 @@ Optionnaly, [add the settings](https://docs.meilisearch.com/reference/api/settin
 ## 📖 Documentation
 
 See our [Documentation](https://docs.meilisearch.com/learn/tutorials/getting_started.html) or our [API References](https://docs.meilisearch.com/reference/api/).
-
