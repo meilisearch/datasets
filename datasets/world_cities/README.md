@@ -2,7 +2,9 @@
 
 ## General
 
-The world-cities dataset weights `10MB` and contains `32419` world cities with a population of more than 10000 inhabitants.
+The world-cities dataset `world-cities.json` weights `10MB` and contains `32419` world cities with a population of more than 10k inhabitants.
+
+A smaller version named `little-cities.json` of `916Kb` containing `4449` cities is also available with all cities having a population of more than 100k inhabitants.
 
 ## Content
 

@@ -5,5 +5,8 @@
   "sortableAttributes": [
     "_geo",
     "population"
+  ],
+  "searchableAttributes": [
+    "name", "asciiname", "_geo", "country code", "country"
   ]
 }
