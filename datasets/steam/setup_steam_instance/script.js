@@ -9,7 +9,7 @@ const client = new MeiliSearch({
 
 const setup_steam_instance = async () => {
   try {
-    const uid = 'steam_video_games';
+    const uid = 'steam-video-games';
 
     const task = await client.createIndex(uid);
     await client.waitForTask(task.uid);
