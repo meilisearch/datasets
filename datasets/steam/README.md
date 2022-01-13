@@ -59,3 +59,33 @@ Using this dataset, we suggest you apply the following customization:
 We provide two files:
 - `steam-games.json` containing the dataset.
 - `settings.json` containing our suggested settings for this dataset.
+
+## Quick setup
+
+If you want to quickly create an index with the documents and the settings, you can go to the `setup_steam_instance` folder and do the following.
+
+Install dependencies:
+
+```bash
+yarn
+```
+
+or
+
+```bash
+npm install
+```
+
+Then, run the following script:
+
+```bash
+yarn setup
+```
+
+or
+
+```bash
+npm run setup
+```
+
+⚠️ Don't forget to change your instance credentials inside the `setup_steam_instance/script.js` file !
