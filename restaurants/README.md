@@ -34,7 +34,13 @@ Every restaurant document is composed of the following fields:
 Using this dataset, we suggest you apply the following customization:
 
 - Add `categories` to the [`filterableAttributes` settings](https://docs.meilisearch.com/reference/api/filterable_attributes.html)
+## Provided file
+
+We provide two files:
+
+- `restaurants.json` containing the dataset.
+- `settings.json` containing our suggested settings for this dataset.
 
 ## Warning
 
-Since this is randomly generated fake data, there may be duplicates. The name, description, picture and categories may not be consistent with each other.
+Since this is randomly generated fake data, there may be duplicates. The name, description, picture, and categories may not be consistent with each other.
