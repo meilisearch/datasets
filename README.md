@@ -39,6 +39,7 @@ All The datasets provided in this repository are accompanied by a README.md file
 - [👾 Steam Games](./datasets/steam)
 - [🌍 World Cities](./datasets/world_cities)
 - [😵 Deprecated Movies](./datasets/deprecated_movies)
+- [🧑‍🍳 Fake Restaurants](./datasets/restaurants)
 
 ## 💅 Settings
 
