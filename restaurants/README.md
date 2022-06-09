@@ -2,7 +2,7 @@
 
 ## General
 
-The restaurants dataset `restaurants.json` weights `174KB` and contains `200` fake restaurants created with [Faker](https://github.com/faker-ruby/faker) and pictures from [Unsplash](https://unsplash.com/).
+The restaurants dataset `restaurants.json` weights `178KB` and contains `200` fake restaurants created with [Faker](https://github.com/faker-ruby/faker) and pictures from [Unsplash](https://unsplash.com/).
 
 ## Content
 
