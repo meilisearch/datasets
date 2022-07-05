@@ -24,7 +24,7 @@ Every movie is composed of the following fields:
 - `poster`: a string containing the URL to its poster image
 - `release_date`: a timestamp of the release date of the movie.
 
-The order of the fields determine their importance in MeiliSearch. With the show-cased example, a match in `title` will be considered more relevant than a match in `overview` ([See this doc](https://docs.meilisearch.com/learn/core_concepts/relevancy.html#attribute-ranking-order)).
+The order of the fields determine their importance in Meilisearch. With the show-cased example, a match in `title` will be considered more relevant than a match in `overview` ([See this doc](https://docs.meilisearch.com/learn/core_concepts/relevancy.html#attribute-ranking-order)).
 
 ### Example
 ```json

@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/meilisearch/integration-guides/blob/main/assets/logos/logo.svg" alt="MeiliSearch open datasets" width="200" height="200" />
+  <img src="https://github.com/meilisearch/integration-guides/blob/main/assets/logos/logo.svg" alt="Meilisearch open datasets" width="200" height="200" />
 </p>
 
 <h1 align="center">Datasets</h1>
 
 <h4 align="center">
-  <a href="https://github.com/meilisearch/MeiliSearch">MeiliSearch</a> |
+  <a href="https://github.com/meilisearch/meilisearch">Meilisearch</a> |
   <a href="https://docs.meilisearch.com">Documentation</a> |
   <a href="https://slack.meilisearch.com">Slack</a> |
   <a href="https://roadmap.meilisearch.com/tabs/1-under-consideration">Roadmap</a> |
@@ -18,11 +18,11 @@
 </p>
 
 
-The **datasets** provided in this repository are compatible with MeiliSearch. Add them to your MeiliSearch instance and use them to try out different use cases.
+The **datasets** provided in this repository are compatible with Meilisearch. Add them to your Meilisearch instance and use them to try out different use cases.
 
 The datasets are free to use for any other purpose.
 
-**MeiliSearch** is an open-source search engine. [Discover what MeiliSearch is!](https://github.com/meilisearch/MeiliSearch)
+**Meilisearch** is an open-source search engine. [Discover what Meilisearch is!](https://github.com/meilisearch/meilisearch)
 
 ## Table of Contents <!-- omit in toc -->
 
@@ -55,10 +55,10 @@ One way to download a dataset is using `cURL`. For example to download the `movi
 curl https://raw.githubusercontent.com/meilisearch/datasets/main/datasets/movies/movies.json --output movies.json
 ```
 
-If you wish to index the dataset, you need a running MeiliSearch instance. See how to [Download MeiliSearch](https://docs.meilisearch.com/learn/getting_started/installation.html).
+If you wish to index the dataset, you need a running Meilisearch instance. See how to [Download Meilisearch](https://docs.meilisearch.com/learn/getting_started/installation.html).
 
-Once MeiliSearch is running, add the dataset to the index name of your choice.<br>
-See how to index a [dataset](https://docs.meilisearch.com/reference/api/documents.html#add-or-replace-documents) in MeiliSearch.
+Once Meilisearch is running, add the dataset to the index name of your choice.<br>
+See how to index a [dataset](https://docs.meilisearch.com/reference/api/documents.html#add-or-replace-documents) in Meilisearch.
 
 Optionnaly, [add the settings](https://docs.meilisearch.com/reference/api/settings.html#update-settings) to the index.
 
