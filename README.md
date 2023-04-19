@@ -40,6 +40,7 @@ All The datasets provided in this repository are accompanied by a README.md file
 - [🌍 World Cities](./datasets/world_cities)
 - [😵 Deprecated Movies](./datasets/deprecated_movies)
 - [🧑‍🍳 Fake Restaurants](./datasets/restaurants)
+- [📚 Books](./datasets/books/)
 
 ## 💅 Settings
 
